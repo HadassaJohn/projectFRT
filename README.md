@@ -1,4 +1,4 @@
-# projectFRT
+# Project FRT
 
 " GLORY LUXE  
 GLORY LUXE is a web based application developed for health and beauty
