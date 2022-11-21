@@ -6,7 +6,7 @@ GLORY LUXE is a web based application developed for health and beauty
 This web based application has been developed for the accomplishment of " FUTURE READY TALENT INTERNSHIP " program launched by "MICROSOFT", " FUTURE SKILLS PRIME" AND "GITHUB" .
 
 PROJECT LINK :https://zealous-sand-0fcb0ee10.2.azurestaticapps.net/
-PROJECT DEMO LINK :
+PROJECT DEMO LINK :https://youtu.be/ZySfUElmmoE
 
 FEATURES : 
 
